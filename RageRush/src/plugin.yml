@@ -1,0 +1,10 @@
+name: RageRush
+author: chrissx
+version: 0.1-prealpha
+main: de.chrissx.ragerush.server.Main
+
+commands:
+ rr:
+ pos1:
+ pos2:
+ set:
